@@ -4,8 +4,8 @@ const {
 	JsonDatabase
 } = require("wio.db");
 const db = new JsonDatabase("db");
-var kanal = "836559359428919297";
-var sahip = "778382988786401280";
+var kanal = "KANAI D";
+var sahip = "SAHIP ID";
 
 client.on("ready",()=>{
 	console.log("Hazır ! ");
@@ -55,4 +55,4 @@ client.on("message",message=>{
 //Furkan !rqyz
 
 
-client.login("mfa.1Qj4asrQ8A8-r1ubiMYM9GtZFyopmiEjTFIr-9_-et6ZLytNm1XqfymroXqcNCgJeTO11lDUfTe7ACupBCqb");
+client.login("TOKEN");
